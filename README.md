@@ -12,3 +12,10 @@
 #### • You must be able to go back to the first view
 #### • This project must use Auto Layout (all iOS9+ iphones), or constraint/modern layout.
 #### • Do not create a token for each query
+
+### V.2 Bonus
+#### Here’s some ideas:
+#### • Use of custom cells - very recomended
+#### • Recreate token at expire date
+#### • Design
+#### • Scrollview
