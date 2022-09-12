@@ -1,7 +1,8 @@
-# SwiftyCompanion
+# The project SwiftyCompanion
 
-## The project
+------
 ### V.1 Mandatory part
+------
 #### Here’s what you must do:
 #### • You must have at least 2 Views
 #### • The first view must contain an input text to search 42 logins
@@ -12,8 +13,9 @@
 #### • You must be able to go back to the first view
 #### • This project must use Auto Layout (all iOS9+ iphones), or constraint/modern layout.
 #### • Do not create a token for each query
-
+-----
 ### V.2 Bonus
+-----
 #### Here’s some ideas:
 #### • Use of custom cells - very recomended
 #### • Recreate token at expire date
